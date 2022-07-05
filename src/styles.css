@@ -144,6 +144,10 @@ footer {
   font-size: 12px;
   margin-top: 25px;
   text-align: right;
-  color: #7668e1a8;
+  color: #696969;
   font-family: cursive;
+}
+
+#git-link {
+  color: #38aae2;
 }
